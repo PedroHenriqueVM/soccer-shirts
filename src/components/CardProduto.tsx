@@ -1,3 +1,5 @@
+"use client"
+
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import {
@@ -8,6 +10,7 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import Image from "next/image"
+import { useState, useEffect } from "react"
 
 // 1. Tipagem das propriedades do produto
 interface CardProdutoProps {
