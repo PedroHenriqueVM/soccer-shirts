@@ -67,7 +67,7 @@ export default function Contato() {
                     </div>
                     <div>
                       <p className="text-sm font-semibold text-slate-500">E-mail</p>
-                      <p className="text-slate-800 font-medium text-sm">contato@papelariarabisco.com.br</p>
+                      <p className="text-slate-800 font-medium text-sm">contato@soccershirts.com.br</p>
                     </div>
                   </div>
 
@@ -104,7 +104,7 @@ export default function Contato() {
 
                     {/* Instagram */}
                     <a
-                      href="<https://instagram.com>"
+                      href="https://instagram.com/centauroesporte"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-3 bg-slate-100 rounded-full hover:bg-slate-200 transition-colors text-slate-700 inline-block"
