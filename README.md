@@ -91,6 +91,6 @@ http://localhost:3000
 
 ## 👨‍💻 Autor
 
-Seu nome aqui
+Pedro Vasconcelos
 
 Projeto desenvolvido como exemplo de site comercial com Next.js.
