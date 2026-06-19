@@ -1,34 +1,41 @@
 import CardProduto from "@/components/CardProduto";
-import produtos from "../../../produtos.json";
+import products from "../../../produtos.json";
 
-export default function ProdutosPage() {
+export default function Produtos() {
   return (
-    <div className="w-full min-h-screen bg-slate-50 pb-12">
-      {/* Título da Seção */}
-      <div className="text-center py-10">
-        <h1 className="text-3xl font-extrabold text-slate-800 tracking-tight">
-          Nosso Catálogo Completo
-        </h1>
-        <p className="text-slate-500 mt-2">
-          Explore as camisas de todas as seleções da Copa do Mundo para você torcer
-        </p>
-      </div>
+    // Substituído o padding lateral estático 'px-36' por um padding dinâmico e fluido
+    <div className="w-full min-h-screen bg-slate-50 py-12 px-4 sm:px-6 lg:px-36">
 
-      {/* Grid Responsivo para os Cards:
-          1 coluna no celular | 2 colunas no tablet | 3 colunas em telas grandes
-      */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto px-4">
-        {produtos.map((produto) => (
-          <CardProduto
-            key={produto.id}
-            id={produto.id}
-            title={produto.title}
-            description={produto.description}
-            price={produto.price}
-            imageSrc={produto.imageSrc}
-            destaque={produto.destaque}
-          />
-        ))}
+      {/* Container de largura máxima para centralização e alinhamento em telas amplas */}
+      <div className="max-w-7xl mx-auto">
+
+        {/* Cabeçalho da Seção de Produtos */}
+        <header className="mb-10 text-center md:text-left">
+          <h1 className="text-3xl font-extrabold text-slate-900 mb-3 tracking-tight">
+            Produtos da Papelaria Rabisco
+          </h1>
+          <p className="max-w-2xl text-slate-600 mx-auto md:mx-0">
+            Encontre todos os itens disponíveis na nossa loja, com preços e descrições completas.
+          </p>
+        </header>
+
+        {/* Grade de Produtos Responsiva com Tailwind Grid */}
+        <section className="w-full">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 justify-items-center">
+            {products.map((product) => (
+              <CardProduto
+                key={product.id}
+                id={product.id}
+                title={product.title}
+                description={product.description}
+                price={product.price}
+                imageSrc={product.imageSrc}
+                destaque={product.destaque}
+              />
+            ))}
+          </div>
+        </section>
+
       </div>
     </div>
   );

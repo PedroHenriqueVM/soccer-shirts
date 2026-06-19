@@ -12,7 +12,7 @@ Site moderno e responsivo para apresentação e venda de camisas de times de fut
 
 ## 🔗 Links úteis
 
-- [Acesse o site](http://localhost:3000)
+- [Acesse o site](https://soccer-shirts.vercel.app/)
 - [Repositório do projeto](https://github.com/PedroHenriqueVM/soccer-shirts.git)
 
 ---
