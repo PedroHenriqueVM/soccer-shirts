@@ -10,7 +10,7 @@ export default function Footer() {
           Empilhado verticalmente no celular e alinhado horizontalmente em telas amplas
       */}
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-400 text-center md:text-left">
-        <p>&copy; {currentYear} Papelaria Rabisco. Todos os direitos reservados.</p>
+        <p>&copy; {currentYear} Soccer Shirts. Todos os direitos reservados.</p>
         <p className="text-slate-300">Feito com carinho para você.</p>
       </div>
     </footer>

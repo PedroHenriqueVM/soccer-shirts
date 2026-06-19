@@ -1,482 +1,902 @@
 [
-  {
-    "id": 1,
-    "title": "Camisa Brasil",
-    "description": "Camisa I versão torcedor Brasil 2026",
-    "price": 405.00,
-    "imageSrc": "/produtos/Camisa Brasil.png",
-    "destaque": true
-  },
-  {
-    "id": 2,
-    "title": "Camisa Argentina",
-    "description": "Camisa I versão torcedor Argentina 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Argentina.png",
-    "destaque": true
-  },
-  {
-    "id": 3,
-    "title": "Camisa França",
-    "description": "Camisa I versão torcedor França 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa França.png",
-    "destaque": true
-  },
-  {
-    "id": 4,
-    "title": "Camisa Espanha",
-    "description": "Camisa I versão torcedor Espanha 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Espanha.png",
-    "destaque": true
-  },
-  {
-    "id": 5,
-    "title": "Camisa Portugal",
-    "description": "Camisa I versão torcedor Portugal 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Portugal.png",
-    "destaque": true
-  },
-  {
-    "id": 6,
-    "title": "Camisa Inglaterra",
-    "description": "Camisa I versão torcedor Inglaterra 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Inglaterra.png",
-    "destaque": true
-  },
-  {
-    "id": 7,
-    "title": "Camisa Alemanha",
-    "description": "Camisa I versão torcedor Alemanha 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Alemanha.png",
-    "destaque": true
-  },
-  {
-    "id": 8,
-    "title": "Camisa Holanda",
-    "description": "Camisa I versão torcedor Holanda 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Holanda.png",
-    "destaque": true
-  },
-  {
-    "id": 9,
-    "title": "Camisa Japão",
-    "description": "Camisa I versão torcedor Japão 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Japão.png",
-    "destaque": false
-  },
-  {
-    "id": 10,
-    "title": "Camisa México",
-    "description": "Camisa I versão torcedor México 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa México.png",
-    "destaque": false
-  },
-  {
-    "id": 11,
-    "title": "Camisa Estados Unidos",
-    "description": "Camisa I versão torcedor Estados Unidos 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Estados Unidos.png",
-    "destaque": false
-  },
-  {
-    "id": 12,
-    "title": "Camisa Croácia",
-    "description": "Camisa I versão torcedor Croácia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Croácia.png",
-    "destaque": true
-  },
-  {
-    "id": 13,
-    "title": "Camisa Austrália",
-    "description": "Camisa I versão torcedor Austrália 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Austrália.png",
-    "destaque": false
-  },
-  {
-    "id": 14,
-    "title": "Camisa Áustria",
-    "description": "Camisa I versão torcedor Áustria 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Áustria.png",
-    "destaque": false
-  },
-  {
-    "id": 15,
-    "title": "Camisa Bélgica",
-    "description": "Camisa I versão torcedor Bélgica 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Bélgica.png",
-    "destaque": false
-  },
-  {
-    "id": 16,
-    "title": "Camisa Bósnia e Herzegovina",
-    "description": "Camisa I versão torcedor Bósnia e Herzegovina 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Bósnia e Herzegovina.png",
-    "destaque": false
-  },
-  {
-    "id": 17,
-    "title": "Camisa Cabo Verde",
-    "description": "Camisa I versão torcedor Cabo Verde 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Cabo Verde.png",
-    "destaque": false
-  },
-  {
-    "id": 18,
-    "title": "Camisa Canadá",
-    "description": "Camisa I versão torcedor Canadá 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Canadá.png",
-    "destaque": false
-  },
-  {
-    "id": 19,
-    "title": "Camisa Catar",
-    "description": "Camisa I versão torcedor Catar 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Catar.png",
-    "destaque": false
-  },
-  {
-    "id": 20,
-    "title": "Camisa Colômbia",
-    "description": "Camisa I versão torcedor Colômbia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Colômbia.png",
-    "destaque": false
-  },
-  {
-    "id": 21,
-    "title": "Camisa Coreia do Sul",
-    "description": "Camisa I versão torcedor Coreia do Sul 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Coreia do Sul.png",
-    "destaque": false
-  },
-  {
-    "id": 22,
-    "title": "Camisa Costa do Marfim",
-    "description": "Camisa I versão torcedor Costa do Marfim 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Costa do Marfim.png",
-    "destaque": false
-  },
-  {
-    "id": 23,
-    "title": "Camisa Curaçao",
-    "description": "Camisa I versão torcedor Curaçao 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Curaçao.png",
-    "destaque": false
-  },
-  {
-    "id": 24,
-    "title": "Camisa Egito",
-    "description": "Camisa I versão torcedor Egito 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Egito.png",
-    "destaque": false
-  },
-  {
-    "id": 25,
-    "title": "Camisa Equador",
-    "description": "Camisa I versão torcedor Equador 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Equador.png",
-    "destaque": false
-  },
-  {
-    "id": 26,
-    "title": "Camisa Escócia",
-    "description": "Camisa I versão torcedor Escócia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Escócia.png",
-    "destaque": false
-  },
-  {
-    "id": 27,
-    "title": "Camisa Gana",
-    "description": "Camisa I versão torcedor Gana 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Gana.png",
-    "destaque": false
-  },
-  {
-    "id": 28,
-    "title": "Camisa Haiti",
-    "description": "Camisa I versão torcedor Haiti 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Haiti.png",
-    "destaque": false
-  },
-  {
-    "id": 29,
-    "title": "Camisa Iraque",
-    "description": "Camisa I versão torcedor Iraque 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Iraque.png",
-    "destaque": false
-  },
-  {
-    "id": 30,
-    "title": "Camisa Irã",
-    "description": "Camisa I versão torcedor Irã 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Irã.png",
-    "destaque": false
-  },
-  {
-    "id": 31,
-    "title": "Camisa Jordânia",
-    "description": "Camisa I versão torcedor Jordânia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Jordania.png",
-    "destaque": false
-  },
-  {
-    "id": 32,
-    "title": "Camisa Marrocos",
-    "description": "Camisa I versão torcedor Marrocos 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Marrocos.png",
-    "destaque": false
-  },
-  {
-    "id": 33,
-    "title": "Camisa Noruega",
-    "description": "Camisa I versão torcedor Noruega 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Noruega.png",
-    "destaque": false
-  },
-  {
-    "id": 34,
-    "title": "Camisa Nova Zelândia",
-    "description": "Camisa I versão torcedor Nova Zelândia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Nova Zelândia.png",
-    "destaque": false
-  },
-  {
-    "id": 35,
-    "title": "Camisa Paraguai",
-    "description": "Camisa I versão torcedor Paraguai 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Paraguai.png",
-    "destaque": false
-  },
-  {
-    "id": 36,
-    "title": "Camisa Panamá",
-    "description": "Camisa I versão torcedor Panamá 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Panamá.png",
-    "destaque": false
-  },
-  {
-    "id": 37,
-    "title": "Camisa República Tcheca",
-    "description": "Camisa I versão torcedor República Tcheca 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa República Tcheca.png",
-    "destaque": false
-  },
-  {
-    "id": 38,
-    "title": "Camisa RD Congo",
-    "description": "Camisa I versão torcedor RD Congo 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa RD Congo.png",
-    "destaque": false
-  },
-  {
-    "id": 39,
-    "title": "Camisa Senegal",
-    "description": "Camisa I versão torcedor Senegal 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Senegal.png",
-    "destaque": false
-  },
-  {
-    "id": 40,
-    "title": "Camisa Suécia",
-    "description": "Camisa I versão torcedor Suécia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Suécia.png",
-    "destaque": false
-  },
-  {
-    "id": 41,
-    "title": "Camisa Suíça",
-    "description": "Camisa I versão torcedor Suíça 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Suíça.png",
-    "destaque": false
-  },
-  {
-    "id": 42,
-    "title": "Camisa Tunísia",
-    "description": "Camisa I versão torcedor Tunísia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Tunísia.png",
-    "destaque": false
-  },
-  {
-    "id": 43,
-    "title": "Camisa Turquia",
-    "description": "Camisa I versão torcedor Turquia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Turquia.png",
-    "destaque": false
-  },
-  {
-    "id": 44,
-    "title": "Camisa Uruguai",
-    "description": "Camisa I versão torcedor Uruguai 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Uruguai.png",
-    "destaque": true
-  },
-  {
-    "id": 45,
-    "title": "Camisa Uzbequistão",
-    "description": "Camisa I versão torcedor Uzbequistão 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Uzbequistão.png",
-    "destaque": false
-  },
-  {
-    "id": 46,
-    "title": "Camisa Arábia Saudita",
-    "description": "Camisa I versão torcedor Arábia Saudita 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Arábia Saudita.png",
-    "destaque": false
-  },
-  {
-    "id": 47,
-    "title": "Camisa África do Sul",
-    "description": "Camisa I versão torcedor África do Sul 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa África do Sul.png",
-    "destaque": false
-  },
-  {
-    "id": 48,
-    "title": "Camisa Argélia",
-    "description": "Camisa I versão torcedor Argélia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Argélia.png",
-    "destaque": false
-  },
-  {
-    "id": 49,
-    "title": "Camisa Brasil II",
-    "description": "Camisa II versão torcedor Brasil 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Brasil 2.png",
-    "destaque": true
-  },
-  {
-    "id": 50,
-    "title": "Camisa Argentina II",
-    "description": "Camisa II versão torcedor Argentina 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Argentina 2.png",
-    "destaque": true
-  },
-  {
-    "id": 51,
-    "title": "Camisa França II",
-    "description": "Camisa II versão torcedor França 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa França 2.png",
-    "destaque": true
-  },
-  {
-    "id": 52,
-    "title": "Camisa Espanha II",
-    "description": "Camisa II versão torcedor Espanha 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Espanha 2.png",
-    "destaque": true
-  },
-  {
-    "id": 53,
-    "title": "Camisa Portugal II",
-    "description": "Camisa II versão torcedor Portugal 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Portugal 2.png",
-    "destaque": true
-  },
-  {
-    "id": 54,
-    "title": "Camisa Inglaterra II",
-    "description": "Camisa II versão torcedor Inglaterra 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Inglaterra 2.png",
-    "destaque": false
-  },
-  {
-    "id": 55,
-    "title": "Camisa Alemanha II",
-    "description": "Camisa II versão torcedor Alemanha 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Alemanha 2.png",
-    "destaque": false
-  },
-  {
-    "id": 56,
-    "title": "Camisa Holanda II",
-    "description": "Camisa II versão torcedor Holanda 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Holanda 2.png",
-    "destaque": false
-  },
-  {
-    "id": 57,
-    "title": "Camisa Japão II",
-    "description": "Camisa II versão torcedor Japão 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Japão 2.png",
-    "destaque": false
-  },
-  {
-    "id": 58,
-    "title": "Camisa México II",
-    "description": "Camisa II versão torcedor México 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa México 2.png",
-    "destaque": false
-  },
-  {
-    "id": 59,
-    "title": "Camisa Estados Unidos II",
-    "description": "Camisa II versão torcedor Estados Unidos 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Estados Unidos 2.png",
-    "destaque": false
-  },
-  {
-    "id": 60,
-    "title": "Camisa Croácia II",
-    "description": "Camisa II versão torcedor Croácia 2026",
-    "price": 449.50,
-    "imageSrc": "/produtos/Camisa Croácia 2.png",
-    "destaque": false
-  }
+{
+  "id": 1,
+  "title": "Camisa Brasil",
+  "description": "Camisa I versão torcedor Brasil 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Brasil.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 2,
+  "title": "Camisa Brasil II",
+  "description": "Camisa II versão torcedor Brasil 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Brasil 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 3,
+  "title": "Camisa Argentina",
+  "description": "Camisa I versão torcedor Argentina 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Argentina.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 4,
+  "title": "Camisa Argentina II",
+  "description": "Camisa II versão torcedor Argentina 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Argentina 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 5,
+  "title": "Camisa França",
+  "description": "Camisa I versão torcedor França 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa França.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 6,
+  "title": "Camisa França II",
+  "description": "Camisa II versão torcedor França 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa França 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 7,
+  "title": "Camisa Espanha",
+  "description": "Camisa I versão torcedor Espanha 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Espanha.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 8,
+  "title": "Camisa Espanha II",
+  "description": "Camisa II versão torcedor Espanha 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Espanha 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 9,
+  "title": "Camisa Portugal",
+  "description": "Camisa I versão torcedor Portugal 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Portugal.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 10,
+  "title": "Camisa Portugal II",
+  "description": "Camisa II versão torcedor Portugal 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Portugal 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 11,
+  "title": "Camisa Inglaterra",
+  "description": "Camisa I versão torcedor Inglaterra 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Inglaterra.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 12,
+  "title": "Camisa Inglaterra II",
+  "description": "Camisa II versão torcedor Inglaterra 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Inglaterra 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 13,
+  "title": "Camisa Alemanha",
+  "description": "Camisa I versão torcedor Alemanha 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Alemanha.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 14,
+  "title": "Camisa Alemanha II",
+  "description": "Camisa II versão torcedor Alemanha 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Alemanha 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 15,
+  "title": "Camisa Holanda",
+  "description": "Camisa I versão torcedor Holanda 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Holanda.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 16,
+  "title": "Camisa Holanda II",
+  "description": "Camisa II versão torcedor Holanda 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Holanda 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 17,
+  "title": "Camisa Japão",
+  "description": "Camisa I versão torcedor Japão 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Japão.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 18,
+  "title": "Camisa Japão II",
+  "description": "Camisa II versão torcedor Japão 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Japão 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 19,
+  "title": "Camisa México",
+  "description": "Camisa I versão torcedor México 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa México.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 20,
+  "title": "Camisa México II",
+  "description": "Camisa II versão torcedor México 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa México 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 21,
+  "title": "Camisa Estados Unidos",
+  "description": "Camisa I versão torcedor Estados Unidos 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Estados Unidos.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 22,
+  "title": "Camisa Estados Unidos II",
+  "description": "Camisa II versão torcedor Estados Unidos 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Estados Unidos 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 23,
+  "title": "Camisa Croácia",
+  "description": "Camisa I versão torcedor Croácia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Croácia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 24,
+  "title": "Camisa Croácia II",
+  "description": "Camisa II versão torcedor Croácia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Croácia 2.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 25,
+  "title": "Camisa Austrália",
+  "description": "Camisa I versão torcedor Austrália 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Austrália.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 26,
+  "title": "Camisa Áustria",
+  "description": "Camisa I versão torcedor Áustria 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Áustria.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 27,
+  "title": "Camisa Bélgica",
+  "description": "Camisa I versão torcedor Bélgica 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Bélgica.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 28,
+  "title": "Camisa Bósnia e Herzegovina",
+  "description": "Camisa I versão torcedor Bósnia e Herzegovina 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Bósnia e Herzegovina.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 29,
+  "title": "Camisa Cabo Verde",
+  "description": "Camisa I versão torcedor Cabo Verde 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Cabo Verde.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 30,
+  "title": "Camisa Canadá",
+  "description": "Camisa I versão torcedor Canadá 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Canadá.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 31,
+  "title": "Camisa Catar",
+  "description": "Camisa I versão torcedor Catar 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Catar.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 32,
+  "title": "Camisa Colômbia",
+  "description": "Camisa I versão torcedor Colômbia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Colômbia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 33,
+  "title": "Camisa Coreia do Sul",
+  "description": "Camisa I versão torcedor Coreia do Sul 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Coreia do Sul.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 34,
+  "title": "Camisa Costa do Marfim",
+  "description": "Camisa I versão torcedor Costa do Marfim 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Costa do Marfim.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 35,
+  "title": "Camisa Curaçao",
+  "description": "Camisa I versão torcedor Curaçao 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Curaçao.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 36,
+  "title": "Camisa Egito",
+  "description": "Camisa I versão torcedor Egito 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Egito.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 37,
+  "title": "Camisa Equador",
+  "description": "Camisa I versão torcedor Equador 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Equador.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 38,
+  "title": "Camisa Escócia",
+  "description": "Camisa I versão torcedor Escócia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Escócia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 39,
+  "title": "Camisa Gana",
+  "description": "Camisa I versão torcedor Gana 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Gana.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 40,
+  "title": "Camisa Haiti",
+  "description": "Camisa I versão torcedor Haiti 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Haiti.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 41,
+  "title": "Camisa Iraque",
+  "description": "Camisa I versão torcedor Iraque 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Iraque.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 42,
+  "title": "Camisa Irã",
+  "description": "Camisa I versão torcedor Irã 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Irã.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 43,
+  "title": "Camisa Jordânia",
+  "description": "Camisa I versão torcedor Jordânia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Jordânia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 44,
+  "title": "Camisa Marrocos",
+  "description": "Camisa I versão torcedor Marrocos 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Marrocos.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 45,
+  "title": "Camisa Noruega",
+  "description": "Camisa I versão torcedor Noruega 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Noruega.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 46,
+  "title": "Camisa Nova Zelândia",
+  "description": "Camisa I versão torcedor Nova Zelândia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Nova Zelândia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 47,
+  "title": "Camisa Paraguai",
+  "description": "Camisa I versão torcedor Paraguai 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Paraguai.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 48,
+  "title": "Camisa Panamá",
+  "description": "Camisa I versão torcedor Panamá 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Panamá.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 49,
+  "title": "Camisa República Tcheca",
+  "description": "Camisa I versão torcedor República Tcheca 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa República Tcheca.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 50,
+  "title": "Camisa RD Congo",
+  "description": "Camisa I versão torcedor RD Congo 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa RD Congo.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 51,
+  "title": "Camisa Senegal",
+  "description": "Camisa I versão torcedor Senegal 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Senegal.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 52,
+  "title": "Camisa Suécia",
+  "description": "Camisa I versão torcedor Suécia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Suécia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 53,
+  "title": "Camisa Suíça",
+  "description": "Camisa I versão torcedor Suíça 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Suíça.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 54,
+  "title": "Camisa Tunísia",
+  "description": "Camisa I versão torcedor Tunísia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Tunísia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 55,
+  "title": "Camisa Turquia",
+  "description": "Camisa I versão torcedor Turquia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Turquia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 56,
+  "title": "Camisa Uruguai",
+  "description": "Camisa I versão torcedor Uruguai 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Uruguai.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": true
+},
+{
+  "id": 57,
+  "title": "Camisa Uzbequistão",
+  "description": "Camisa I versão torcedor Uzbequistão 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Uzbequistão.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 58,
+  "title": "Camisa Arábia Saudita",
+  "description": "Camisa I versão torcedor Arábia Saudita 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Arábia Saudita.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 59,
+  "title": "Camisa África do Sul",
+  "description": "Camisa I versão torcedor África do Sul 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa África do Sul.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 60,
+  "title": "Camisa Argélia",
+  "description": "Camisa I versão torcedor Argélia 2026",
+  "price": 549.50,
+  "imageSrc": "/produtos/Camisa Argélia.png",
+  "categoria": "Copa do Mundo 2026",
+  "destaque": false
+},
+{
+  "id": 61,
+  "title": "Camisa Flamengo",
+  "description": "Camisa I versão torcedor Flamengo 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Flamengo.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 62,
+  "title": "Camisa Flamengo II",
+  "description": "Camisa II versão torcedor Flamengo 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Flamengo 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 63,
+  "title": "Camisa Palmeiras",
+  "description": "Camisa I versão torcedor Palmeiras 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Palmeiras.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 64,
+  "title": "Camisa Palmeiras II",
+  "description": "Camisa II versão torcedor Palmeiras 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Palmeiras 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 65,
+  "title": "Camisa Corinthians",
+  "description": "Camisa I versão torcedor Corinthians 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Corinthians.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 66,
+  "title": "Camisa Corinthians II",
+  "description": "Camisa II versão torcedor Corinthians 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Corinthians 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 67,
+  "title": "Camisa São Paulo",
+  "description": "Camisa I versão torcedor São Paulo 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa São Paulo.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 68,
+  "title": "Camisa São Paulo II",
+  "description": "Camisa II versão torcedor São Paulo 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa São Paulo 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 69,
+  "title": "Camisa Santos",
+  "description": "Camisa I versão torcedor Santos 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Santos.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 70,
+  "title": "Camisa Santos II",
+  "description": "Camisa II versão torcedor Santos 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Santos 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 71,
+  "title": "Camisa Vasco da Gama",
+  "description": "Camisa I versão torcedor Vasco da Gama 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Vasco da Gama.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 72,
+  "title": "Camisa Vasco da Gama II",
+  "description": "Camisa II versão torcedor Vasco da Gama 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Vasco da Gama 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 73,
+  "title": "Camisa Fluminense",
+  "description": "Camisa I versão torcedor Fluminense 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Fluminense.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 74,
+  "title": "Camisa Fluminense II",
+  "description": "Camisa II versão torcedor Fluminense 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Fluminense 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 75,
+  "title": "Camisa Botafogo",
+  "description": "Camisa I versão torcedor Botafogo 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Botafogo.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 76,
+  "title": "Camisa Botafogo II",
+  "description": "Camisa II versão torcedor Botafogo 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Botafogo 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 77,
+  "title": "Camisa Atlético-MG",
+  "description": "Camisa I versão torcedor Atlético-MG 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Atlético-MG.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 78,
+  "title": "Camisa Atlético-MG II",
+  "description": "Camisa II versão torcedor Atlético-MG 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Atlético-MG 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": true
+},
+{
+  "id": 79,
+  "title": "Camisa Internacional",
+  "description": "Camisa I versão torcedor Internacional 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Internacional.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 80,
+  "title": "Camisa Internacional II",
+  "description": "Camisa II versão torcedor Internacional 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Internacional 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 81,
+  "title": "Camisa Grêmio",
+  "description": "Camisa I versão torcedor Grêmio 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Grêmio.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 82,
+  "title": "Camisa Grêmio II",
+  "description": "Camisa II versão torcedor Grêmio 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Grêmio 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 83,
+  "title": "Camisa Bahia",
+  "description": "Camisa I versão torcedor Bahia 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Bahia.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 84,
+  "title": "Camisa Bahia II",
+  "description": "Camisa II versão torcedor Bahia 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Bahia 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 85,
+  "title": "Camisa Athletico-PR",
+  "description": "Camisa I versão torcedor Athletico-PR 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Athletico-PR.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 86,
+  "title": "Camisa Athletico-PR II",
+  "description": "Camisa II versão torcedor Athletico-PR 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Athletico-PR 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 87,
+  "title": "Camisa Bragantino",
+  "description": "Camisa I versão torcedor Bragantino 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Bragantino.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 88,
+  "title": "Camisa Bragantino II",
+  "description": "Camisa II versão torcedor Bragantino 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Bragantino 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 89,
+  "title": "Camisa Coritiba",
+  "description": "Camisa I versão torcedor Coritiba 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Coritiba.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 90,
+  "title": "Camisa Coritiba II",
+  "description": "Camisa II versão torcedor Coritiba 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Coritiba 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 91,
+  "title": "Camisa Cruzeiro",
+  "description": "Camisa I versão torcedor Cruzeiro 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Cruzeiro.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 92,
+  "title": "Camisa Cruzeiro II",
+  "description": "Camisa II versão torcedor Cruzeiro 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Cruzeiro 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 93,
+  "title": "Camisa Vitória",
+  "description": "Camisa I versão torcedor Vitória 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Vitória.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 94,
+  "title": "Camisa Vitória II",
+  "description": "Camisa II versão torcedor Vitória 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Vitória 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 95,
+  "title": "Camisa Remo",
+  "description": "Camisa I versão torcedor Remo 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Remo.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 96,
+  "title": "Camisa Remo II",
+  "description": "Camisa II versão torcedor Remo 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Remo 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 97,
+  "title": "Camisa Mirassol",
+  "description": "Camisa I versão torcedor Mirassol 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Mirassol.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 98,
+  "title": "Camisa Mirassol II",
+  "description": "Camisa II versão torcedor Mirassol 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Mirassol 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 99,
+  "title": "Camisa Chapecoense",
+  "description": "Camisa I versão torcedor Chapecoense 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Chapecoense.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+},
+{
+  "id": 100,
+  "title": "Camisa Chapecoense II",
+  "description": "Camisa II versão torcedor Chapecoense 2026",
+  "price": 399.90,
+  "imageSrc": "/produtos/Camisa Chapecoense 2.png",
+  "categoria": "Brasileirão Série A 2026",
+  "destaque": false
+}
 ]

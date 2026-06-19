@@ -29,12 +29,13 @@ export default function Carrossel() {
         <CarouselContent>
           {carrosselImagens.map((imagem, index) => (
             <CarouselItem key={index}>
-              <div className="relative w-full h-[300px] md:h-[450px] overflow-hidden">
+              <div className="relative w-full h-[220px] sm:h-[300px] md:h-[420px] lg:h-[480px] overflow-hidden bg-slate-100">
                 <Image
                   src={imagem.src}
                   alt={imagem.alt}
                   fill
-                  className="object-cover"
+                  sizes="100vw"
+                  className="object-contain"
                   priority={index === 0}
                 />
               </div>

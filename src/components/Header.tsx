@@ -10,8 +10,8 @@ export default function Header() {
 const [ isOpen, setIsOpen ] = useState<boolean>(false)
 
   return (
-    <header className="relative w-full h-16 bg-[#f8f8f8] border-slate-200 px-36 flex items-center justify-between">
-      <div className="flex items-center gap-3">
+    <header className="relative w-full h-16 bg-[#f8f8f8] border-b border-slate-200 px-4 sm:px-8 md:px-36 flex items-center justify-between">
+      <div className="flex items-center gap-3 min-w-0">
         <Image
           src="/logo/logo Soccer Shirts.png"
           alt="Logo da empresa"
@@ -35,9 +35,12 @@ const [ isOpen, setIsOpen ] = useState<boolean>(false)
         </Link>
       </nav>
       <button
-      onClick = {() => setIsOpen(!isOpen)}
-      className="md:hidden p-2 text-slate-600 hover:text-blue-600 transition-colors focus:outline-none" aria-label={ isOpen ? "Fechar menu": "Abrir menu"}>
-        { isOpen ? <X className="h-6 w-6"/> : <Menu className="h-6 w-6"/>}
+        type="button"
+        onClick={() => setIsOpen(!isOpen)}
+        className="md:hidden ml-auto flex h-10 w-10 items-center justify-center rounded-md text-slate-600 hover:text-blue-600 transition-colors focus:outline-none"
+        aria-label={isOpen ? "Fechar menu" : "Abrir menu"}
+      >
+        {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
       </button>
       {/* Menu mobile - renderização condicional */}
       { isOpen && (
