@@ -384,7 +384,7 @@
   "price": 549.50,
   "imageSrc": "/produtos/Camisa Jordania.png",
   "categoria": "Copa do Mundo 2026",
-  "destaque": false
+  "destaque": false 
 },
 {
   "id": 44,
@@ -543,7 +543,7 @@
   "id": 61,
   "title": "Camisa Flamengo",
   "description": "Camisa I versão torcedor Flamengo 2026",
-  "price": 399.90,
+  "price": 449.90,
   "imageSrc": "/produtos/Camisa Flamengo.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -552,7 +552,7 @@
   "id": 62,
   "title": "Camisa Flamengo II",
   "description": "Camisa II versão torcedor Flamengo 2026",
-  "price": 399.90,
+  "price": 449.90,
   "imageSrc": "/produtos/Camisa Flamengo 2.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -561,7 +561,7 @@
   "id": 63,
   "title": "Camisa Palmeiras",
   "description": "Camisa I versão torcedor Palmeiras 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Palmeiras.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -570,7 +570,7 @@
   "id": 64,
   "title": "Camisa Palmeiras II",
   "description": "Camisa II versão torcedor Palmeiras 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Palmeiras 2.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -579,7 +579,7 @@
   "id": 65,
   "title": "Camisa Corinthians",
   "description": "Camisa I versão torcedor Corinthians 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Corinthians.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -588,7 +588,7 @@
   "id": 66,
   "title": "Camisa Corinthians II",
   "description": "Camisa II versão torcedor Corinthians 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Corinthians 2.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -597,7 +597,7 @@
   "id": 67,
   "title": "Camisa São Paulo",
   "description": "Camisa I versão torcedor São Paulo 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa São Paulo.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -606,7 +606,7 @@
   "id": 68,
   "title": "Camisa São Paulo II",
   "description": "Camisa II versão torcedor São Paulo 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa São Paulo 2.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -615,7 +615,7 @@
   "id": 69,
   "title": "Camisa Santos",
   "description": "Camisa I versão torcedor Santos 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Santos.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -624,7 +624,7 @@
   "id": 70,
   "title": "Camisa Santos II",
   "description": "Camisa II versão torcedor Santos 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Santos 2.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -633,7 +633,7 @@
   "id": 71,
   "title": "Camisa Vasco da Gama",
   "description": "Camisa I versão torcedor Vasco da Gama 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Vasco da Gama.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": false
@@ -642,7 +642,7 @@
   "id": 72,
   "title": "Camisa Vasco da Gama II",
   "description": "Camisa II versão torcedor Vasco da Gama 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Vasco da Gama 2.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": false
@@ -651,7 +651,7 @@
   "id": 73,
   "title": "Camisa Fluminense",
   "description": "Camisa I versão torcedor Fluminense 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Fluminense.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -660,7 +660,7 @@
   "id": 74,
   "title": "Camisa Fluminense II",
   "description": "Camisa II versão torcedor Fluminense 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Fluminense 2.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -687,7 +687,7 @@
   "id": 77,
   "title": "Camisa Atlético-MG",
   "description": "Camisa I versão torcedor Atlético-MG 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Atlético-MG.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
@@ -696,7 +696,7 @@
   "id": 78,
   "title": "Camisa Atlético-MG II",
   "description": "Camisa II versão torcedor Atlético-MG 2026",
-  "price": 399.90,
+  "price": 449.99,
   "imageSrc": "/produtos/Camisa Atlético-MG 2.png",
   "categoria": "Brasileirão Série A 2026",
   "destaque": true
