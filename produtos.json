@@ -3,7 +3,7 @@
   "id": 1,
   "title": "Camisa Brasil",
   "description": "Camisa I versão torcedor Brasil 2026",
-  "price": 549.50,
+  "price": 494.55,
   "imageSrc": "/produtos/Camisa Brasil.png",
   "categoria": "Copa do Mundo 2026",
   "destaque": true
@@ -57,7 +57,7 @@
   "id": 7,
   "title": "Camisa Espanha",
   "description": "Camisa I versão torcedor Espanha 2026",
-  "price": 549.50,
+  "price": 439.60,
   "imageSrc": "/produtos/Camisa Espanha.png",
   "categoria": "Copa do Mundo 2026",
   "destaque": true
@@ -165,7 +165,7 @@
   "id": 19,
   "title": "Camisa México",
   "description": "Camisa I versão torcedor México 2026",
-  "price": 549.50,
+  "price": 439.60,
   "imageSrc": "/produtos/Camisa México.png",
   "categoria": "Copa do Mundo 2026",
   "destaque": false
